@@ -14,5 +14,6 @@
 ![Photoshop](https://img.shields.io/badge/-Photoshop-000000?style=for-the-badge&logo=AdobePhotoshop)
 ![Markdown](https://img.shields.io/badge/-Markdown-000000?style=for-the-badge&logo=Markdown)
 ![Markdown](https://img.shields.io/badge/-JIRA-000000?style=for-the-badge&logo=JiraSoftware&logoColor=3366FF)
-![EnjiRouz GitHub Stats](https://github-readme-stats.vercel.app/api?username=R0manMarkov&count_private=true&hide=contribs&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=R0manMarkov&count_private=true&hide=tsql&langs_count=7&theme=radical&layout=compact)
+***
+| <a href="https://github.com/R0manMarkov/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=R0manMarkov&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" />
+***
