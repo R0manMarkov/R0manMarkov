@@ -3,8 +3,8 @@
 [<font color=000000 size=5>markovroman.com</font>](https://www.markovroman.com/)
 ---
 ***
-### My technology stack
----
+## My technology stack
+
 ![flutter](https://img.shields.io/badge/JAVA-000000?style=for-the-badge&logo=java&logoColor=FF4500)
 ![flutter](https://img.shields.io/badge/PYTHON-000000?style=for-the-badge&logo=PYTHON&logoColor=4682B4)
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=GitHub)
