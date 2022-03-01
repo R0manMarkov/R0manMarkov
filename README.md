@@ -1,4 +1,4 @@
-## Hello  QA Automation Engineer
+## QA Automation Engineer
 ---
 [<font color=000000 size=4>markovroman.com</font>](https://www.markovroman.com/)
 ---
@@ -14,6 +14,6 @@
 ![Markdown](https://img.shields.io/badge/-Markdown-000000?style=for-the-badge&logo=Markdown)
 ![Markdown](https://img.shields.io/badge/-JIRA-000000?style=for-the-badge&logo=JiraSoftware&logoColor=3366FF)
 ***
-### Statistics
+## Statistics
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=R0manMarkov&show_icons=true&hide=prs,issues,contribs&theme=dark)
 ***
