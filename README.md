@@ -1,6 +1,6 @@
 ## QA Automation Engineer
 ---
-[<font color=000000 size=4>markovroman.com</font>](https://www.markovroman.com/)
+
 ---
 ---
 ## Hard skills
