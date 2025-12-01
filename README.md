@@ -1,4 +1,4 @@
-## QA Automation Engineer
+## QA Engineer
 ---
 
 ---
